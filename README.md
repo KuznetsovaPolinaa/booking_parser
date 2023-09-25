@@ -1,6 +1,6 @@
 # Web Scraper of Booking.com 🏢
 
-Scraper extracts data from the hotel page on Booking.com and save it in a file.
+Scraper extracts data from the hotel page on Booking.com and save it as a json file.
 
 We get the following hotel's information:
 - Name
