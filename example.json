@@ -1,0 +1,75 @@
+{
+    "name": "Four Seasons Hotel Seoul",
+    "address": "97, Saemunan-ro, Jongno-gu, Jongno-Gu, 03183 Seoul, South Korea",
+    "rating": "9.2",
+    "popular_facilities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Fitness center",
+        "Spa",
+        "Room service",
+        "Free WiFi",
+        "Facilities for disabled guests",
+        "5 restaurants",
+        "Bar",
+        "Very Good Breakfast"
+    ],
+    "pet": "Pets are allowed. Charges may apply.",
+    "payment_methods": [
+        "Maestro",
+        "Mastercard",
+        "Visa",
+        "UnionPay credit card",
+        "BC-Card",
+        "JCB",
+        "Diners Club",
+        "American Express",
+        "Cash"
+    ],
+    "rooms_and_prices": [
+        {
+            "room_type": "Deluxe King Room",
+            "price": "US$605"
+        },
+        {
+            "room_type": "Premier King Room",
+            "price": "US$631"
+        },
+        {
+            "room_type": "Premier Double Room",
+            "price": "US$631"
+        },
+        {
+            "room_type": "Premier Family King Room",
+            "price": "US$652"
+        },
+        {
+            "room_type": "Corner Premier King Room",
+            "price": "US$685"
+        },
+        {
+            "room_type": "Club Double Room (Club Lounge Access for two)",
+            "price": "US$806"
+        },
+        {
+            "room_type": "Club King Room (Club Lounge Access for two)",
+            "price": "US$806"
+        },
+        {
+            "room_type": "Grand Family Room King",
+            "price": "US$820"
+        },
+        {
+            "room_type": "Executive Double Suite with City View (Club Lounge Access for two)",
+            "price": "US$1,336"
+        },
+        {
+            "room_type": "Executive King Suite with City View (Club Lounge Access for two)",
+            "price": "US$1,336"
+        },
+        {
+            "room_type": "Executive King Suite with Palace View (Club Lounge Access for two)",
+            "price": "US$1,411"
+        }
+    ]
+}
